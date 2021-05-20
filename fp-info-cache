@@ -1,4 +1,74 @@
-19234761280475246
+19401918739589888
+.tracer
+DFN1006-2
+DFN package size 1006 2 pins
+DFN package size 1006 2 pins
+0
+2
+2
+.tracer
+MODULE_OLED_490
+
+
+0
+4
+4
+.tracer
+MODULE_TINY_2040
+
+
+0
+19
+19
+.tracer
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+.tracer
+REED_RELAY_COTO_9913
+Coto Technologies SPST Reed Relay 9913
+Coto Reed SPST Relay
+0
+4
+4
+.tracer
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+.tracer
+SAMTEC-SSQ-102-02-SIDEWAYS
+4.93 mm tail length
+
+0
+4
+4
+.tracer
+SOIC-24W_7.5x15.4mm_P1.27mm
+SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+24
+24
+.tracer
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+.tracer
+via-0.8x0.4
+
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83957,262 +84027,3 @@ varistor SIOV
 0
 2
 2
-novac
-DFN1006-2
-DFN package size 1006 2 pins
-DFN package size 1006 2 pins
-0
-2
-2
-novac
-Harwin_M20-89006xx_1x06_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89006xx, 6 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-7
-6
-novac
-Harwin_M20-89010xx_1x10_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89010xx, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-11
-10
-novac
-ILD213T
-
-
-0
-8
-8
-novac
-LED_ON_VISHAY_2PLCC
-Visible light SMD LED 1206 mounted on Vishay 2PLCC pad
-LED
-0
-2
-2
-novac
-LED_UV_VISHAY_2PLCC
-
-LED
-0
-2
-2
-novac
-MODULE_ABX00027
-
-
-0
-30
-30
-novac
-MODULE_OLED_490
-
-
-0
-4
-4
-novac
-MODULE_OLED_490_DEVELOPMENT
-
-
-0
-4
-4
-novac
-MODULE_TINY_2040
-
-
-0
-19
-19
-novac
-MODULE_TINY_2040_DEVELOMENT
-
-
-0
-19
-19
-novac
-MountingHole_3.2mm_M3
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-novac
-MountingHole_3.2mm_M3_ISO7380_Pad
-Mounting Hole 3.2mm, M3, ISO7380
-mounting hole 3.2mm m3 iso7380
-0
-1
-1
-novac
-OSHW-Logo2_7.3x6mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-novac
-OSHW_LOGO
-https://maciek134.github.io/oshw-logo-gen/
-
-0
-0
-0
-novac
-REED_RELAY_COTO_9913
-Coto Technologies SPST Reed Relay 9913
-Coto Reed SPST Relay
-0
-4
-4
-novac
-R_0805_2012Metric
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-novac
-Relay_DPDT_Omron_G6K-2F
-Omron G6K-2F relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
-Omron G6K-2F relay
-0
-8
-8
-novac
-SAMTEC-SMH-102-02-X-S
-translated Allegro footprint
-
-0
-2
-2
-novac
-SAMTEC-SMH-106-02-X-S
-translated Allegro footprint
-
-0
-6
-6
-novac
-SAMTEC-SSQ-102-02-SIDEWAYS
-4.93 mm tail length
-
-0
-4
-4
-novac
-SOIC-8_5.23x5.23mm_P1.27mm
-SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-novac
-SOIC-16_3.9x9.9mm_P1.27mm
-SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-16
-16
-novac
-SOIC-24W_7.5x15.4mm_P1.27mm
-SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-24
-24
-novac
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-novac
-TE_640454-2
-
-
-0
-2
-2
-novac
-TE_640454-2-FLIP
-Retention clip flipped around
-
-0
-2
-2
-novac
-TE_640454-4
-
-
-0
-4
-4
-novac
-TE_640454-4_FLIP
-
-
-0
-4
-4
-novac
-TE_640454-8
-
-
-0
-8
-8
-novac
-TE_640454-8_FLIP
-
-
-0
-8
-8
-novac
-TE_640454-9
-
-
-0
-9
-9
-novac
-TE_640454-9_FLIP
-
-
-0
-9
-9
-novac
-TestPoint_Pad_2.5x2.5mm
-SMD rectangular pad as test Point, square 2.5mm side length
-test point SMD pad rectangle square
-0
-1
-1
-novac
-logo
-
-
-0
-0
-0
-novac
-uv_warning_iso7010_w027
-
-
-0
-0
-0
-novac
-via-0.8x0.4
-
-
-0
-1
-1

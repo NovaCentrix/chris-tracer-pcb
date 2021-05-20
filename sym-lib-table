@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name novac)(type Legacy)(uri /Users/rclott/root/files/projs/novac/eda/novac.lib)(options "")(descr ""))
-  (lib (name stumbler)(type Legacy)(uri /Users/rclott/root/files/tools/kicad-stumbler/stumbler.lib)(options "")(descr ""))
+  (lib (name .tracer)(type Legacy)(uri ${KIPRJMOD}/tracer.lib)(options "")(descr ""))
 )
