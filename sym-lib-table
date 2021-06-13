@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name .tracer)(type Legacy)(uri ${KIPRJMOD}/tracer.lib)(options "")(descr ""))
+  (lib (name .novac)(type Legacy)(uri ${KIPRJMOD}/../novac.lib)(options "")(descr ""))
 )
