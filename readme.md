@@ -1,9 +1,10 @@
-# TraceR -- Module for Simulating Conductive Ink PCB Traces
+# The TraceR 
 
 ![](images/tracer-front-back.png)
 
+## A Module for Simulating Conductive Ink PCB Traces
 
-# Revisions
+## Revisions
 
 ### Version 2
 
@@ -30,7 +31,7 @@
 
 First release. 
 
-# Observations
+## Observations
 
 Before I forget, here are some thoughts to consider if there ever is
 going to be a version 3.
